@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(253, 163, 53);
+  color: #FFF;
+  text-align: center;
+}
+
+.navbar-container {
+  text-align: right;
+}
+
+.navbar-container-links a{
+  text-decoration: none;
+  color: #FFF;
+}
+
+.navbar-container-links li {
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+h2 {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+input {
+  margin: 20px;
+  padding: 5px;
+  width: 400px;
+}
