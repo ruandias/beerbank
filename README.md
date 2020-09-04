@@ -1,7 +1,7 @@
 <!-- Headings -->
 # The Beer Bank V2
 
-In this chalenge, you will build a website to list and help search beers. The backend is provided to you at: [API](htts://punkapi.com/documentation/v2)
+In this chalenge, you will build a website to list and help search beers. The backend is provided to you at: [API](https://punkapi.com/documentation/v2)
 
 ### **1. Design the header of the page as below:**
 
