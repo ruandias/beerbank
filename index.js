@@ -1,7 +1,7 @@
 const inputSearch = document.getElementById('inputSearch')
 
 const container = document.getElementById('container')
-container.setAttribute('class', 'container')
+container.setAttribute('class', 'container wrap')
 
 async function getBeers() 
 {
